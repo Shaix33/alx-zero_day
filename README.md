@@ -1,2 +1,2 @@
 My first readme
-updating readme from github interface
+* updating readme from github interface
